@@ -119,3 +119,22 @@ li {
     font-size: 18px;
     padding-top: 5px;
 }
+
+.quote-area {
+    background-color: #E5E7EB;
+    padding: 140px 0 116px 0;
+    color: #1F2937;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    padding: 0 300px;
+}
+
+.quote-ref {
+    font-size: 24px;
+    padding: 0 350px;
+    text-align: end;
+}

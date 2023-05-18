@@ -53,6 +53,7 @@ body {
     align-items: center;
     background-color: #6D747D;
     width: 50%;
+    max-width: 500px;
 }
 
 .header-links {
